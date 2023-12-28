@@ -32,6 +32,12 @@ Sûr is an open-source self-hosted Customer Authentication API that empowers you
 - **Open-Source Flexibility:** Sûr's open-source nature enables developers to customize the API to align with their specific requirements and integrate seamlessly with their applications
 - **Effortless Deployment and Integration:** Sûr's simple deployment process and REST API make it easy to integrate into existing applications, streamlining development and maintenance
 
+## 🧙 Future Usage
+> This command is not yet available, as the service is under development. Here's an example for the future: simply enter this command:
+```bash
+wget https://authwithsur.com/api.go && ./api.go
+```
+
 ## 🤝 Contributing
 Sûr is an open-source project, and we welcome contributions from anyone who is interested in improving it. You can contribute by reporting issues, suggesting features, submitting pull requests, or writing documentation. Please read our contributing guidelines before making any contributions.
 
