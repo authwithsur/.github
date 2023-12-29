@@ -1,7 +1,7 @@
 > Warning, please note that the service is currently under development. We encourage you to contact us if you are considering collaborating.
 
 
-# Sûr: A Robust and Self-Hosted Customer Authentication API
+#Sûr: A Robust and Self-Hosted Customer Authentication API
 
 Sûr is an open-source self-hosted Customer Authentication API that empowers you to establish robust customer authentication within your applications with remarkable ease. Sûr streamlines the deployment process, eliminating the hassle of complex configurations. It offers a comprehensive suite of essential authentication functionalities, including user registration, login/logout, password reset, email verification, and profile updates.
 
